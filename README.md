@@ -17,5 +17,5 @@ I'm Vlad, a .NET developer from Ukraine 🟦🟨
 
 ### Find me in LinkedIn:
 
- :link: [Click](https://linkedin.com/in/yourname)
+ :link: [Click](https://www.linkedin.com/in/vlad-pecherytsia-022676113/)
  
